@@ -1,6 +1,6 @@
 🎯 C# EĞİTİM KAMPI PROJELERİ
 ---------------------------------------------------
-Bu depo, Murat Yücedağ rehberliğinde yürütülen C# Eğitim Kampı kapsamında tamamladığım ilk 9 projeyi içermektedir. Projeler, temel programlama mantığını kavrama ve pratik yeteneklerimi pekiştirme amacıyla hazırlanmıştır.Her bir projenin teknik detayları aşağıda yer almaktadır. 
+Bu depo, Murat Yücedağ rehberliğinde yürütülen C# Eğitim Kampı kapsamında tamamladığım ilk 10 projeyi içermektedir. Projeler, temel programlama mantığını kavrama ve pratik yeteneklerimi pekiştirme amacıyla hazırlanmıştır.Her bir projenin teknik detayları aşağıda yer almaktadır. 
 
 🧩Proje 1:Yazdırma Komutu
 ------------------------------------------------------
@@ -37,3 +37,8 @@ Bu projede C# dilinde metot yapısını,geriye değer döndürmeyen(void) ve de�
 🧩Proje 9:Veritabanı Projesi
 --------------------------------------------------
 Bu projede C# ile SQL Server bağlantısı kurarak ADO.NET sınıfları(SqlConnection,SqlCommand,SqlDataAdapter)vasıtasıyla veritabanındaki verileri DataTable'a çekmeyi ve konsol üzerinde dinamik olarak listelemeyi öğrendim.
+
+🧩Proje 10:Veritabanı CRUD İşlemleri
+---------------------------------------------------
+Bu projede C# ile SQL Server veritabanı üzerinden ürün ve kategoriler için ekleme,silme,güncelleme ve listeleme işlemlerini yaptım.Parametreli sorgular kullanarak veritabanı bağlantılarını kurguladım ve konsol üzerinden çalışan pratik bir sipariş yönetim paneli oluşturdum.
+
